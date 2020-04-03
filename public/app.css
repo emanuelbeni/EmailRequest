@@ -1,0 +1,25 @@
+body {
+	color: white;
+	text-align: center;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url("./chris-malinao-burgett-qOmpBmFDg2E-unsplash.jpg") no-repeat;
+	background-size: cover;
+}
+
+body h1 {
+	font-size: 14rem;
+	font-weight: bolder;
+}
+
+div .lead {
+	font-size: 2.5rem;
+	font-weight: 400;
+}
+
+div.container {
+	margin-top: 5rem;
+}
+
+.form-rounded {
+	border-radius: 1rem;
+}
